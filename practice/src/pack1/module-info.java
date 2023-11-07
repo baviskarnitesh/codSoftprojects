@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author nites
+ *
+ */
+module practice {
+}
